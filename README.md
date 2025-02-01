@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, just figuring out how GitHub works and making some projects👋
 
 <!--
 **Acieran/Acieran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
